@@ -1,0 +1,30 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 173
+    length: 43
+    placeholder_text: '...  # TODO подставить результат выражения'
+    initial_state:
+      length: 42
+      offset: 95
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: pOFxq+VTymWmt5O+IDuWdQ==
+  encrypted_text: rqNRTm54cRf6XWf1dklFtdQExWZZ/OzIbINpS4GLA2PnZybnfyIisD+SoUrFwYG1gxd/nbP3TVf95XZ3Q6byHW85GKJdJIlRwZu7ZmA/Y7ugTjpApsKYv5gKvHTW2O45RaF2XTncQvi0A0wvfzLuZ5KZW1bzVUmxY6tTmnpUgcXCVGrAu4T/96mkY7rJOqaarRPuX2RtBy8gPuU736UArGuQBmwMa8mnYKIbdTtuLCQetx5y1bnC97m1mk+nRfazPNWXGwxbyVLv7Pw7kPa7DI/NE3OZq2FQ3beAsIwOy5w=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: JM6NmPLaRZFKEk+SWPIjaQ==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 24 Oct 2022 12:15:50 UTC
+record: -1
